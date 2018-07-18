@@ -21,8 +21,8 @@ GameObject:
   - component: {fileID: 4826628423881648}
   - component: {fileID: 212072795204938088}
   - component: {fileID: 50214789177243674}
-  - component: {fileID: 114948160180500482}
   - component: {fileID: 68543278417876448}
+  - component: {fileID: 114948160180500482}
   m_Layer: 0
   m_Name: Paddle
   m_TagString: Player
